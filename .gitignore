@@ -1,3 +1,10 @@
+# Idea files
+.idea
+JavaRushTasks.iml
+
+# Plugin properties
+JavaRushPlugin.properties
+
 # Compiled class file
 *.class
 
