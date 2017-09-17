@@ -8,8 +8,7 @@ public class Solution {
     public static void main(String[] args) {
         //напишите тут ваш код
         for (int i = 0; i < 5; i++) {
-            System.out.println("Изминил эту строку");
-            System.out.println("Добавил новую строку");
+            System.out.println("Элли самая красивая");
         }
     }
 }
