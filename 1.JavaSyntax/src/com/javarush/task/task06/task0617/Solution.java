@@ -15,7 +15,7 @@ public class Solution {
 
     public static class Idea {
         public String getDescription() {
-            return "test";
+            return "tests";
         }
     }
 

@@ -13,7 +13,7 @@ public class Solution {
     public static void main(String[] args) {
         // напишите тут ваш код
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
-        String nameFile = "G:/test.txt";
+        String nameFile = "G:/tests.txt";
         Scanner scanner = null;
         FileInputStream fileInputStream = null;
 

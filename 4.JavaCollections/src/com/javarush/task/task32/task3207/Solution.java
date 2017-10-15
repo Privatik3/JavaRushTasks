@@ -22,7 +22,7 @@ public class Solution {
             //напишите тут ваш код
             try {
                 DoubleString doubleStringInterface = (DoubleString) registry.lookup(UNIC_BINDING_NAME);
-                String doubleString = doubleStringInterface.doubleString("test");
+                String doubleString = doubleStringInterface.doubleString("tests");
                 System.out.println(doubleString);
             } catch (RemoteException | NotBoundException e) {
                 e.printStackTrace();

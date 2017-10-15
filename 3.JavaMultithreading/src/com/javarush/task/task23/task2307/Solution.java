@@ -5,12 +5,12 @@ package com.javarush.task.task23.task2307;
 Не изменяй ничего кроме метода main.
 */
 public class Solution {
-    public static final String TEST = "test";
+    public static final String TEST = "tests";
 
     public static class TEST {
         @Override
         public String toString() {
-            return "test class";
+            return "tests class";
         }
     }
 
